@@ -1,0 +1,16 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    githubLink: https://github.com/derrickabreo/Sunshine
+    projectName: Sunshine
+    description: A beautiful Weather app that gives weather forecast details
+
+  - icon: fa fa-android
+    githubLink: https://github.com/derrickabreo/NerdCentral
+    projectName: NerdCentral
+    description: An app to upload event details.
+    
+  - icon: fa fa-desktop
+    githubLink: https://github.com/derrickabreo/BirthOfPlanetEarth
+    projectName: Planet Earth, Birth
+    description: A graphics projet which gives a brief description of birth of planet Earth.

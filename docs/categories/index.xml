@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Derrick Abreo</title>
+    <link>https://derrickabreo.github.io/derrickabreo/categories/</link>
+    <description>Recent content in Categories on Derrick Abreo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://derrickabreo.github.io/derrickabreo/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>https://derrickabreo.github.io/derrickabreo/categories/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://derrickabreo.github.io/derrickabreo/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://derrickabreo.github.io/derrickabreo/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://derrickabreo.github.io/derrickabreo/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://derrickabreo.github.io/derrickabreo/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://derrickabreo.github.io/derrickabreo/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
